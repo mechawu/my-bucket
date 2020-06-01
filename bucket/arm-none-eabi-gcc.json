@@ -1,0 +1,12 @@
+{
+  "version": "8-2019-q3-update",
+  "description": "Pre-built GNU toolchain for Arm Cortex-M and Cortex-R processors",
+  "homepage": "https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm",
+  "license": "GPL-3.0-only",
+  "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/8-2019q3/RC1.1/gcc-arm-none-eabi-8-2019-q3-update-win          32.zip",
+  "hash": "md5:5fa382a547abe0b0d5c0a6e9eaa75c7b",
+  "env_add_path": "bin",
+  "env_set": {
+	  "TL_PATH": "$dir\\bin"
+  }
+}  
